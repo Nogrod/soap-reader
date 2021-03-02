@@ -19,11 +19,11 @@
     { "type": "vcs", "url": "https://github.com/Nogrod/wsdl-reader.git" }
   ],
   "require": {
-    "php": "^5.4||^7.0",
+    "php": "^7.2",
     "goetas-webservices/wsdl-reader": "dev-master"
   },
   "require-dev": {
-    "phpunit/phpunit": "^4.8|^5.0"
+    "phpunit/phpunit": "^8.0|^9.0"
   },
   "autoload-dev": {
     "psr-4": {
